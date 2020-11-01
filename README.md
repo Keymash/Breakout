@@ -6,3 +6,5 @@
   <li>Right Click to spawn a ball</li>
 </ul>
 <p>Score is multiplied by the amount of active balls. Go on, make the game harder for yourself</p>
+<br>
+<p> One known bug: CTD can occur if you allow the ball to spawn under bricks. Easily avoided, will be fixed by new feature in next build.</p>
